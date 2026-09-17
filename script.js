@@ -36,13 +36,14 @@ const perguntas = [
                     texto:  "Principalmente as pessoas que não podem pagar por atendimento particular.",
                     afirmacao:[
 
-                    ] "Você considera que a saúde pública deve priorizar quem possui menor condição financeira.",
+                     "Você considera que a saúde pública deve priorizar quem possui menor condição financeira.",
                      “Você considera que os recursos da saúde pública devem dar prioridade às pessoas que não podem pagar por atendimento particular.”
                 
-                ]    }    
+                ]   
+             }    
                
             ]
-        },
+         },
         {
             enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
 
