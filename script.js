@@ -10,11 +10,13 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Garantir atendimento de qualidade para toda a população.",
-                afirmacao: "Você se preocupada com a igualdade, a qualidade do atendimento e a redução das diferenças no acesso à saúde"
+                afirmacao: "Você se preocupada com a igualdade, a qualidade do atendimento e a redução das diferenças no acesso à saúde",
+                “Você acredita que investir na prevenção de doenças e na promoção da saúde pode melhorar a qualidade de vida da população.”
             },
             {
                 texto:  "Reduzir os gastos públicos com saúde.",
-                afirmacao: "Você  acredita que controlar os custos e utilizar melhor os recursos públicos é uma prioridade."
+                afirmacao: "Você  acredita que controlar os custos e utilizar melhor os recursos públicos é uma prioridade.",
+                “Você considera importante controlar os gastos públicos para utilizar os recursos da saúde de forma eficiente.”
             }    
            
         ]
@@ -25,11 +27,15 @@ const perguntas = [
             alternativas: [
                 {
                     texto: " Todas as pessoas, independentemente de sua condição financeira.",
-                    afirmacao: "Você defende a saúde como um direito de todos e valoriza a igualdade no acesso aos serviços."
+                    afirmacao: "Você defende a saúde como um direito de todos e valoriza a igualdade no acesso aos serviços.",
+                    “Você acredita que todas as pessoas devem ter acesso à saúde, independentemente de sua condição financeira.”
+
+
                 },
                 {
                     texto:  "Principalmente as pessoas que não podem pagar por atendimento particular.",
-                    afirmacao: ""
+                    afirmacao: "Você considera que a saúde pública deve priorizar quem possui menor condição financeira.",
+                     “Você considera que os recursos da saúde pública devem dar prioridade às pessoas que não podem pagar por atendimento particular.”
                 }    
                
             ]
@@ -40,12 +46,14 @@ const perguntas = [
             alternativas: [
                 {
                     texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo.",
+                    “Você acredita que prevenir doenças e promover hábitos saudáveis deve ser uma prioridade da saúde pública.”
                 },
                 {
                     texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional.",
+                    “Você considera que oferecer tratamento médico às pessoas doentes é uma das principais funções da saúde pública.”
                 }    
                
             ]
