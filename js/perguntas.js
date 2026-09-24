@@ -56,8 +56,8 @@ export const perguntas = [
                     afirmacao: ["Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional.",
                     “Você considera que oferecer tratamento médico às pessoas doentes é uma das principais funções da saúde pública.”
                     ]
-                },   
+                }   
                
-            ];
+            ]
         },
 ];
