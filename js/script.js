@@ -31,10 +31,7 @@ function mostraAlternativas() {
         const botaoAlternativas = document.createElement("button");
 
         botaoAlternativas.textContent = alternativa.texto;
-        botaoAlternativas.addEventListener("click", () =>
-            respostaSelecionada(alternativa)
-        );
-
+        botaoAlternativas.addEventListener("click", () =>respostaSelecionada(alternativa));
         caixaAlternativas.appendChild(botaoAlternativas);
     }
 }
